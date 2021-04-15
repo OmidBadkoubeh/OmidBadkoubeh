@@ -1,11 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omid Badkoubeh!
 
 
-![GitHub followers](https://img.shields.io/github/followers/OmidBadkoubeh?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/OmidBadkoubeh?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/OmidBadkoubeh?style=for-the-badge)
 
-![GitHub User's stars](https://img.shields.io/github/stars/OmidBadkoubeh?style=for-the-badge)
-
-Frontend developer with knowledge of react and react-native.
+I'm a Frontend developer and have enough experience in react and react-native.
 
 Have some experience in data science and machine learning, and have some experience in python.
 
