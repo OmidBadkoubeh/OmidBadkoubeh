@@ -60,7 +60,7 @@ I love to learn and work with flutter and have interests in Backend technologies
 <div style="display: flex">
 <!-- <img align="center" style="margin: 20px auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=omidbadkoubeh&compact=true" /> -->
 
-<img align="center" style="margin: 20px auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<!-- <img align="center" style="margin: 20px auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /> -->
 </div>
 
 <!--
