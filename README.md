@@ -31,8 +31,8 @@ I love to learn and work with flutter and have interests in Backend technologies
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidbadkoubeh&hide=html,css&theme=tokyonight)  ![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=omidbadkoubeh&theme=tokyonight) -->
 
-<div style="display: flex">
-<img align="center" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidbadkoubeh&hide=html,css&theme=tokyonight" /> <img align="center" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=omidbadkoubeh&theme=tokyonight" />
+<div style="display: flex; align-items: flex-start">
+<img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidbadkoubeh&hide=html,css&theme=tokyonight" /> <img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=omidbadkoubeh&theme=tokyonight" />
 </div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omidbadkoubeh&compact=true)](https://github.com/anuraghazra/github-readme-stats) -->
