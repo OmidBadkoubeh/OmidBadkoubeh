@@ -2,13 +2,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/OmidBadkoubeh?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/OmidBadkoubeh?style=for-the-badge)
 
-I'm a Frontend developer and have 2 years experience in react and react-native.
+I'm a Frontend developer with 2 years of experience in React and React Native.
 
-I worked on some apps and websites, thirsty to learn more and build amazing products.
+I have some experience in Data Science, Machine Learning and Python as well. 
 
-Have some experience in data science and machine learning, and have some experience in python.
+I have worked on several apps and websites, thirsty for learning more and building fascinating products.
 
-I love to learn and work with flutter and have interests in Backend technologies.
+I'm eager to learn and work more with Flutter. And I'm also interested in Backend technologies.
 
 ---
 
