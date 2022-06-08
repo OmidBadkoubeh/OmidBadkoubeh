@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Omid Badkoubeh!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Omid Badkoubeh!
 
 ![GitHub followers](https://img.shields.io/github/followers/OmidBadkoubeh?style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/OmidBadkoubeh?style=for-the-badge)
 
-I'm a Frontend developer with 2 years of experience in React and React Native.
+I'm a Frontend developer with 3 years of experience in React and React Native.
 
 I have some experience in Data Science, Machine Learning and Python as well. 
 
