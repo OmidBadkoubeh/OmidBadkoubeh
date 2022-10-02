@@ -2,7 +2,7 @@
 
 [![@omidb's Holopin board](https://holopin.io/api/user/board?user=omidb)](https://holopin.io/@omidb)
 
-I'm a Frontend developer with 3 years of experience in React and React Native.
+I'm a Frontend developer with 4 years of experience in React and React Native.
 
 I have some experience in Data Science, Machine Learning and Python as well. 
 
@@ -14,7 +14,28 @@ I'm eager to learn and work more with Flutter. And I'm also interested in Backen
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/graphql/graphql-plain.svg" alt="GraphQL Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nextjs/nextjs-original.svg" alt="NextJS Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gatsby/gatsby-plain.svg" alt="Gatsby Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50" /> <img src="https://github.com/guiseek/dev-logos.svg/blob/7eb5574ae509766ab64196776845c047666fa7c5/nodejs.svg" alt="NodeJS Logo" width="50" height="50" /> <img src="https://github.com/guiseek/dev-logos.svg/blob/7eb5574ae509766ab64196776845c047666fa7c5/nestjs.svg" alt="NestJS Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" alt="Django Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sass/sass-original.svg" alt="Sass Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/less/less-plain-wordmark.svg" alt="Less Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/webpack/webpack-original.svg" alt="Webpack Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/yarn/yarn-original.svg" alt="Yarn Logo" width="50" height="50" />
+<div style="display: flex; width: 100%; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/graphql/graphql-plain.svg" alt="GraphQL Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nextjs/nextjs-original.svg" alt="NextJS Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50" /> 
+  <img src="https://github.com/guiseek/dev-logos.svg/blob/7eb5574ae509766ab64196776845c047666fa7c5/nodejs.svg" alt="NodeJS Logo" width="50" height="50" /> 
+  <img src="https://github.com/guiseek/dev-logos.svg/blob/7eb5574ae509766ab64196776845c047666fa7c5/nestjs.svg" alt="NestJS Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" alt="Django Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-plain.svg" alt="Git Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sass/sass-original.svg" alt="Sass Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/less/less-plain-wordmark.svg" alt="Less Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/webpack/webpack-original.svg" alt="Webpack Logo" width="50" height="50" /> 
+  <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/yarn/yarn-original.svg" alt="Yarn Logo" width="50" height="50" />
+</div>
 
 <!-- Preserved logos -->
 <!-- <img  src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg"  alt="Golang Logo"  width="50"  height="50"/> -->
@@ -24,15 +45,16 @@ I'm eager to learn and work more with Flutter. And I'm also interested in Backen
 <!-- <img  src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gitlab/gitlab-original.svg"  alt="Gitlab Logo"  width="50"  height="50"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/linux/linux-original.svg"  alt="Linux Logo"  width="50"  height="50"/> -->
 <!-- <img  src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original-wordmark.svg"  alt="NodeJS Logo"  width="50"  height="50"/> -->
-
+<!-- <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/gatsby/gatsby-plain.svg" alt="Gatsby Logo" width="50" height="50" /> -->
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidbadkoubeh&hide=html,css&theme=tokyonight)  ![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=omidbadkoubeh&theme=tokyonight) -->
-<span style="margin-top: 20px; margin-bottom: 20px;" />
-<div style="display: flex; align-items: center;">
-<img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidbadkoubeh&hide=html,css&theme=tokyonight" /> <img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=omidbadkoubeh&theme=tokyonight" />
+<span style="margin: 20px 30px;" />
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
+  <img align="top" style="margin: 20px 50px; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidbadkoubeh&hide=html,css&theme=tokyonight" /> 
+  <img align="top" style="margin: 20px 50px; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=omidbadkoubeh&theme=tokyonight" />
 </div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omidbadkoubeh&compact=true)](https://github.com/anuraghazra/github-readme-stats) -->
