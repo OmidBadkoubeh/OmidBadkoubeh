@@ -19,7 +19,7 @@ I'm eager to learn and work more with Flutter. And I'm also interested in Backen
   <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50" /> 
   <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React" width="50" height="50" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" width="50" height="50" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" /> 
   <img src="https://github.com/devicons/devicon/blob/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50" /> 
