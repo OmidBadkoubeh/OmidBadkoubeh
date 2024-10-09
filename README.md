@@ -2,7 +2,7 @@
 
 [![@omidb's Holopin board](https://holopin.io/api/user/board?user=omidb)](https://holopin.io/@omidb)
 
-I'm a Frontend developer with 4 years of experience in React and React Native.
+I'm a Frontend developer with 6 years of experience in React and React Native.
 
 I have some experience in Data Science, Machine Learning and Python as well. 
 
